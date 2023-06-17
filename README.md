@@ -14,7 +14,7 @@ With relentless passion, I embarked on the captivating exploration and cleaning 
 
 But the magic didn't stop there. Armed with the indomitable PostgreSQL, I conquered every challenge that stood in my way. The links below hold the key to this triumph:
 
-- [Repository](https://github.com/Monye-Okechukwu/FIFA-Dataset_PostgreSQL_Cleaning/tree/process/Fifa21)
+- [Repository](https://github.com/Monye-Okechukwu/FIFA-Dataset_PostgreSQL_Cleaning/tree/main/Fifa21)
 - [Documentation of the data cleaning process](https://noelshalom14.medium.com/data-cleaning-challenge-inspecting-and-wrangling-the-fifa-21-data-using-postgresql-313d12dd7503)
 
 Venture forth and immerse yourself in the wonders of the cleaned dataset. Unveil the secrets behind my PostgreSQL-powered cleaning prowess. Prepare to be captivated.
